@@ -1,0 +1,23 @@
+{
+  "greeting": "Hey",
+  "name": "Anushka",
+  "greetingText": "Bro, your presence is sorely missed here...",
+  "wishText": "Happy Birthday! 🎉 Your special day serves as a reminder of the value you bring into the world. Even though our conversations happen when you need something, I want you to know that I'm here beyond those moments. Wishing you a wonderful birthday and hoping our friendship grows beyond occasional calls or texts. Cheers to more chats and laughter ahead! 🎂🎈✨ ",
+  "imagePath": "img/anushka.png",
+  "text1": "It's your birthday!!! :D",
+  "textInChatBox": "Happy birthday to you!! Yeee! Many many happy blah...",
+  "sendButtonLabel": "Send",
+  "text2": "That's what I was going to do.",
+  "text3": "But then I stopped.",
+  "text4": "I realised, I wanted to do something",
+  "text4Adjective": "special",
+  "text5Entry": "Because,",
+  "text5Content": "You are Special",
+  "smiley": ":)",
+  "bigTextPart1": "S",
+  "bigTextPart2": "O",
+  "wishHeading": "Happy Birthday!",
+  "outroText": "Okay, now come back and tell me if you liked it.",
+  "replayText": "Or click, if you want to watch it again.",
+  "outroSmiley": ":)"
+}
